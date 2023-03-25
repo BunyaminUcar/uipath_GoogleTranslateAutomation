@@ -1,2 +1,4 @@
 # uipath_GoogleTranslateAutomation
-Turkish to English Document Reading and Translation Automation
+English to Turkish Document Reading and Translation Automation
+
+Instantly translate foreign resources into your language using RPA
