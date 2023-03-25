@@ -1,0 +1,12 @@
+﻿{
+  "Id": "t6GZYDLjuU6Be0BpjgU7qg",
+  "Reference": "ir7yjbKrBUuZwQjXgyZbiA/t6GZYDLjuU6Be0BpjgU7qg",
+  "Name": "Chrome: Google Çeviri(3)",
+  "Type": "App",
+  "Created": "2023-03-25T01:02:00.6560263Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=23.2.0.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=23.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-03-25T01:02:00.6560263Z"
+}

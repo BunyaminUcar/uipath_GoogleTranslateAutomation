@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="PqKjOWoagUif6NCWias6AQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="https://translate.google.com/?hl=tr&amp;sl=en&amp;tl=tr&amp;op=translate" DesignTimeRectangle="344, 357, 558, 74" DesignTimeScaleFactor="1" ElementType="InputBox" FriendlyName="'TEXTAREA'" FullSelectorArgument="&lt;webctrl tag='TEXTAREA' /&gt;" FuzzySelectorArgument="&lt;webctrl tag='TEXTAREA' type='' class='er8xn' aaname='' /&gt;" Guid="6a664c08-11cf-41a1-8daa-8d37e42d0dd1" ImageBase64="iVBORw0KGgoAAAANSUhEUgAAAjIAAABOCAYAAAA6s/zKAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAFjSURBVHhe7dYBDQAADMOg+ze962gCKrgBAESJDACQJTIAQJbIAABZIgMAZIkMAJAlMgBAlsgAAFkiAwBkiQwAkCUyAECWyAAAWSIDAGSJDACQJTIAQJbIAABZIgMAZIkMAJAlMgBAlsgAAFkiAwBkiQwAkCUyAECWyAAAWSIDAGSJDACQJTIAQJbIAABZIgMAZIkMAJAlMgBAlsgAAFkiAwBkiQwAkCUyAECWyAAAWSIDAGSJDACQJTIAQJbIAABZIgMAZIkMAJAlMgBAlsgAAFkiAwBkiQwAkCUyAECWyAAAWSIDAGSJDACQJTIAQJbIAABZIgMAZIkMAJAlMgBAlsgAAFkiAwBkiQwAkCUyAECWyAAAWSIDAGSJDACQJTIAQJbIAABZIgMAZIkMAJAlMgBAlsgAAFkiAwBkiQwAkCUyAECWyAAAWSIDAGSJDACQJTIAQJbIAABZIgMAZIkMABC1PY8hawfuk5ePAAAAAElFTkSuQmCC" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Google Çeviri' /&gt;" SearchSteps="FuzzySelector, Image" Version="V2" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="fe1e8b6d3e34f4ed67d50704445e6439.png" xmlns="">0XgpjP10PU0-yZYdec4Jmww</imageRef>
+    </TargetAnchorable>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>
